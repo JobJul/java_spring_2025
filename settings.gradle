@@ -1,3 +1,4 @@
 rootProject.name = 'java_spring_2025'
 include 'homeWork_01'
+include 'homeWork_02'
 
